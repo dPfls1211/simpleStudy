@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Astar/Scene/astar3D.unity
+- path: Assets/GeminiAIStudy/FirstStep.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

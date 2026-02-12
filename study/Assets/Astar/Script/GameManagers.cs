@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class GameManager : MonoBehaviour
+public class GameManagers : MonoBehaviour
 {
     [Header("Scene Setup")]
     public GameObject characterPrefab;

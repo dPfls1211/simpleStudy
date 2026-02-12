@@ -432,9 +432,14 @@
 -analyzer:"D:/unity/6000.3.7f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Astar/Script/AStarPathfinder.cs"
 "Assets/Astar/Script/CharController.cs"
-"Assets/Astar/Script/GameManager.cs"
+"Assets/Astar/Script/GameManagers.cs"
 "Assets/Astar/Script/GridManager.cs"
 "Assets/Astar/Script/GridNode.cs"
+"Assets/GeminiAIStudy/Script/BulletController.cs"
+"Assets/GeminiAIStudy/Script/EnemySpawner.cs"
+"Assets/GeminiAIStudy/Script/GameManager.cs"
+"Assets/GeminiAIStudy/Script/MoveTest.cs"
+"Assets/GeminiAIStudy/Script/PlayerCollision.cs"
 -langversion:9.0
 /deterministic
 /optimize+

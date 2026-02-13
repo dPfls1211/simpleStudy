@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/GeminiAIStudy/FirstStep.unity
+    path: Assets/GeminiAIStudy/Phase1/FirstStep.unity
     guid: 3029b804e69663f4d8f5c46ceda8350c
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}

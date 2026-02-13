@@ -435,12 +435,14 @@
 "Assets/Astar/Script/GameManagers.cs"
 "Assets/Astar/Script/GridManager.cs"
 "Assets/Astar/Script/GridNode.cs"
-"Assets/GeminiAIStudy/Script/BulletController.cs"
-"Assets/GeminiAIStudy/Script/EnemyController.cs"
-"Assets/GeminiAIStudy/Script/EnemySpawner.cs"
-"Assets/GeminiAIStudy/Script/GameManager.cs"
-"Assets/GeminiAIStudy/Script/MoveTest.cs"
-"Assets/GeminiAIStudy/Script/PlayerCollision.cs"
+"Assets/GeminiAIStudy/Phase1/Script/BulletController.cs"
+"Assets/GeminiAIStudy/Phase1/Script/EnemyController.cs"
+"Assets/GeminiAIStudy/Phase1/Script/EnemySpawner.cs"
+"Assets/GeminiAIStudy/Phase1/Script/GameManager.cs"
+"Assets/GeminiAIStudy/Phase1/Script/MoveTest.cs"
+"Assets/GeminiAIStudy/Phase1/Script/PlayerCollision.cs"
+"Assets/GeminiAIStudy/Phase2/Script/PlayerAnimationController.cs"
+"Assets/GeminiAIStudy/Phase2/Source/Kevin Iglesias/Human Animations/Scripts/SpineProxy.cs"
 -langversion:9.0
 /deterministic
 /optimize+

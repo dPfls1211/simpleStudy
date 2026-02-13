@@ -436,6 +436,7 @@
 "Assets/Astar/Script/GridManager.cs"
 "Assets/Astar/Script/GridNode.cs"
 "Assets/GeminiAIStudy/Script/BulletController.cs"
+"Assets/GeminiAIStudy/Script/EnemyController.cs"
 "Assets/GeminiAIStudy/Script/EnemySpawner.cs"
 "Assets/GeminiAIStudy/Script/GameManager.cs"
 "Assets/GeminiAIStudy/Script/MoveTest.cs"
